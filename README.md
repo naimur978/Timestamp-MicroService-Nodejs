@@ -33,8 +33,6 @@
 
 
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
 
 <h1 align="center">Input</h1>
 
@@ -53,21 +51,14 @@
 
 
 
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-
-
 
 <!-- USAGE EXAMPLES -->
 ## Usage
+This is a Node.js (with Express.js) little application which is part of the FCC Back End Certification. It takes a date string and gives you back a JSON with Unix value and natural format for the given date.
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+1. I can pass a string as a parameter, and it will check to see whether that string contains either a unix timestamp or a natural language date (example: January 1, 2016)
+2. If it does, it returns both the Unix timestamp and the natural language form of that date.
+3. If it does not contain a date or Unix timestamp, it returns null for those properties.
 
 
 
