@@ -73,7 +73,7 @@ This is a Node.js (with Express.js) little application which is part of the FCC 
 <!-- CONTACT -->
 ## Contact
 
-Mail - naimur978@gmail.com
+Email - naimur978@gmail.com
 
 Project Link: [https://timestamp-validator.herokuapp.com/](https://timestamp-validator.herokuapp.com/)
 
