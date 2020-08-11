@@ -31,35 +31,23 @@
 
 
 
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
-
-* [About the Project](#about-the-project)
-  * [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Usage](#usage)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
-
 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+<h1 align="center">Input</h1>
+
+
 [![Product Name Screen Shot][product-screenshot]](https://timestamp-validator.herokuapp.com/)
 
-
+<h1 align="center">Output</h1>
 
 [![Product Name Screen Shot 2][product-screenshot2]](https://timestamp-validator.herokuapp.com/api/timestamp/2015-12-25)
 
 
 ### Built With
-* [nodejs](hhttps://nodejs.org/en/)
+* [nodejs](https://nodejs.org/en/)
 * [html](https://html.com/)
 * [css](https://css-tricks.com/)
 
